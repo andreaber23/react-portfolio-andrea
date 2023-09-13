@@ -5,8 +5,10 @@ import Portfolio from './pages/Portfolio';
 import About from './pages/About';
 import Contact from './pages/Contact'
 import Navigation from './pages/Navigation';
-import Resume from './pages/Resume'
-import Navbar from './components/Navbar'
+import Resume from './pages/Resume';
+import Navbar from './components/Navbar';
+import Footer from './pages/Footer';
+
 
 function App() {
   return (
@@ -27,6 +29,7 @@ function App() {
           {/* Route for Resume */}
           <Route path='/resume'element={<Resume />}/>
         </Routes>
+        <Footer/>
       </Router>
     </div>
   );
