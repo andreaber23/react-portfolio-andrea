@@ -13,7 +13,7 @@ function Footer() {
         <EmailIcon/>
         <PhoneIphoneIcon/>
       </div>
-        <p>      Andrea Berrios -  2023 </p>
+        <p> &copy; 2023 - Andrea Berrios </p>
     </div>
   )
 }
