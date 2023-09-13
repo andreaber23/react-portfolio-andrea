@@ -6,12 +6,13 @@ import About from './pages/About';
 import Contact from './pages/Contact'
 import Navigation from './pages/Navigation';
 import Resume from './pages/Resume'
-
+import Navbar from './components/Navbar'
 
 function App() {
   return (
     <div className="App">
       <Router>
+        <Navbar />
         <Routes>
           {/* Route for Home*/}
           <Route path='/'element={<Home />}/>
