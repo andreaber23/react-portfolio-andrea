@@ -113,6 +113,8 @@ body {
   font-size: 20px;
 }
 
-.socialMedia {
+.socialMedia svg {
   margin: 8px;
+  font-size: 30px;
 }
+
