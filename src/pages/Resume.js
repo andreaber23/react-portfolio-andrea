@@ -19,10 +19,9 @@ function Resume() {
                 <li>NPM</li>
                 <li>Bootstrap</li>
                 <li>MaterialUI</li>
-                <li>StyledComponents</li>
-                <li>AJAX/Fetch</li>
+                <li>Styled Components</li>
+                <li>AJAX Fetch</li>
                 <li>Front-End build tools</li>
-                <li>React</li>
                 <li>JavaScript</li>
             </ul>         
           </li>
