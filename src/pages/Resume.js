@@ -5,7 +5,13 @@ function Resume() {
   return (
     <div className='resumeMain'>
         <h1> Resume </h1>
-        <p> resume goes here</p>
+        <a
+        href="/resume.pdf" 
+        download="your_resume.pdf"
+        className="download-button"
+      >
+        Download here!
+      </a>
       <div className='skills'>
         <h1> Skills </h1>
          <ul className='list'>

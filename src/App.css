@@ -182,9 +182,14 @@ text-align: center;
   justify-content: center;
   align-items: center;
   text-align: center;
+  width: 100%;
  
 }
-
+.resumeMain a {
+  color: black;
+  background-color: white;
+  padding: 2%
+}
 .skills{
   color: white;
   background-color: black;
@@ -202,9 +207,6 @@ text-align: center;
   font-size: 20px;
   text-decoration: underline;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
   list-style: none;
 }
 .skills .list{
@@ -213,9 +215,8 @@ text-align: center;
 }
 .skills .item ul li{
   color: white;
-  text-align: center;
   list-style: none;
-  width: 97%;
+  width: 100%;
 }
 
 
@@ -232,7 +233,7 @@ text-align: center;
       width: 80%;
     }
     .skills {
-      text-align: center;
+      text-align: left;
       
     }
     .list {
