@@ -1,22 +1,43 @@
 import React from 'react'
 
+
 function Resume() {
   return (
-    <div>
-      <div>
+    <div className='resumeMain'>
         <h1> Resume </h1>
-      </div>
+        <p> resume goes here</p>
       <div className='skills'>
         <h1> Skills </h1>
          <ul className='list'>
           <li className='item'>
             <h2> Front-End</h2>
-            <span>ReactJS, Redux, HTML, CSS, NPM,BootStrap, MaterialUI,StyledComponents, AJAX/Fetch, Front-End build tools, React, JavaScript</span>
-            </li>
+            <ul>
+                <li>ReactJS</li>
+                <li>Redux</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>NPM</li>
+                <li>Bootstrap</li>
+                <li>MaterialUI</li>
+                <li>StyledComponents</li>
+                <li>AJAX/Fetch</li>
+                <li>Front-End build tools</li>
+                <li>React</li>
+                <li>JavaScript</li>
+            </ul>         
+          </li>
             <li className='item'>
             <h2> Back-End</h2>
-            <span>NodeJS, ExpressJS, GraphQL, ApolloServer, MySQL, MongoDB, AWS S3, </span>
-            </li>
+            <ul>
+                <li>Node.js</li>
+                <li>Express.js</li>
+                <li>GraphQL</li>
+                <li>Apollo Server</li>
+                <li>MySQL</li>
+                <li>MongoDB</li>
+                <li>JavaScript</li>
+            </ul>     
+            </li>  
          </ul>
       </div>
     </div>

@@ -9,7 +9,6 @@ import Resume from './pages/Resume';
 import Navbar from './components/Navbar';
 import Footer from './pages/Footer';
 
-
 function App() {
   return (
     <div className="App">
