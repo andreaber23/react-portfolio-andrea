@@ -4,6 +4,9 @@ import { Grid, Typography } from '@mui/material';
 import Project1 from '../images/budgify.jpg'
 import Project2 from '../images/blog.jpg'
 import Project3 from '../images/password.jpg'
+import Project4 from '../images/textEditor.jpg'
+import Project5 from '../images/readmeGenerator.jpg'
+import Project6 from '../images/myhealthspace.jpeg'
 
 const projects = [
   {
@@ -28,24 +31,23 @@ const projects = [
   },
   {
     title: 'PWA Text Editor',
-    description: 'Personal finance website using MySQL, Express and Handlebars.',
-    imageSrc: Project1,
+    description: 'Online and offline text editor',
+    imageSrc: Project4,
     deployedLink: 'https://damp-retreat-93740-4c6cf8bac678.herokuapp.com/',
     githubLink: 'https://github.com/andreaber23/PWA-Text-Editor'
   },
   {
-    title: 'ReadMe Generator',
-    description: 'Personal finance website using MySQL, Express and Handlebars.',
-    imageSrc: Project1,
-    deployedLink: 'https://damp-retreat-93740-4c6cf8bac678.herokuapp.com/',
-    githubLink: 'https://github.com/andreaber23/PWA-Text-Editor'
+    title: 'Professional ReadMe Generator',
+    description: 'Generates readme file.',
+    imageSrc: Project5,
+    githubLink: 'https://github.com/andreaber23/Professional-README-Generator'
   },
   {
     title: 'myhealthspace',
-    description: 'Personal finance website using MySQL, Express and Handlebars.',
-    imageSrc: Project1,
-    deployedLink: 'https://damp-retreat-93740-4c6cf8bac678.herokuapp.com/',
-    githubLink: 'https://github.com/andreaber23/PWA-Text-Editor'
+    description: 'Full-Stack application using MERN.',
+    imageSrc: Project6,
+    deployedLink: '',
+    githubLink: 'https://github.com/andreaber23/myhealthspace'
   },
 ];
 
