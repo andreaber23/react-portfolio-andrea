@@ -110,8 +110,8 @@ body {
   align-items: center;
   flex-direction:row;
   color: white;
-  
   font-size: 20px;
+  position: fixed,
 }
 
 .socialMedia svg {
@@ -278,4 +278,13 @@ text-align: center;
 .contact {
   background-color: black;
   color: white;
+}
+#portfolio {
+  color: white;
+  background-color: black;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
