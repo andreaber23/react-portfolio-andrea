@@ -18,7 +18,7 @@ const Navigation = ({ currentPage }) => {
   return (
     <StyledAppBar position="static">
       <Toolbar>
-        <Typography variant="h6">Your Logo</Typography>
+        <Typography variant="h6"></Typography>
         <StyledLink
           component={RouterLink}
           to="/"
