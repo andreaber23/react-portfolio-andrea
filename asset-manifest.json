@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.25ebe31a.css",
-    "main.js": "/static/js/main.7759d7b7.js",
-    "static/js/787.60d1a99a.chunk.js": "/static/js/787.60d1a99a.chunk.js",
-    "static/media/budgify.jpg": "/static/media/budgify.b47e0253d3ff16b2ec1d.jpg",
-    "static/media/myhealthspace.jpeg": "/static/media/myhealthspace.10914bbd8b2305562059.jpeg",
-    "static/media/readmeGenerator.jpg": "/static/media/readmeGenerator.ad89ddc0615df25a04a9.jpg",
-    "static/media/password.jpg": "/static/media/password.3389d13466ce23102e01.jpg",
-    "static/media/blog.jpg": "/static/media/blog.e97d6bc5c36760411aa6.jpg",
-    "static/media/textEditor.jpg": "/static/media/textEditor.623da1d0b0ab35a5f597.jpg",
-    "static/media/homeProfile.png": "/static/media/homeProfile.78013eb163ab04581295.png",
-    "index.html": "/index.html",
-    "main.25ebe31a.css.map": "/static/css/main.25ebe31a.css.map",
-    "main.7759d7b7.js.map": "/static/js/main.7759d7b7.js.map",
-    "787.60d1a99a.chunk.js.map": "/static/js/787.60d1a99a.chunk.js.map"
+    "main.css": "/react-portfolio-andrea/home/static/css/main.25ebe31a.css",
+    "main.js": "/react-portfolio-andrea/home/static/js/main.605d61ee.js",
+    "static/js/787.60d1a99a.chunk.js": "/react-portfolio-andrea/home/static/js/787.60d1a99a.chunk.js",
+    "static/media/budgify.jpg": "/react-portfolio-andrea/home/static/media/budgify.b47e0253d3ff16b2ec1d.jpg",
+    "static/media/myhealthspace.jpeg": "/react-portfolio-andrea/home/static/media/myhealthspace.10914bbd8b2305562059.jpeg",
+    "static/media/readmeGenerator.jpg": "/react-portfolio-andrea/home/static/media/readmeGenerator.ad89ddc0615df25a04a9.jpg",
+    "static/media/password.jpg": "/react-portfolio-andrea/home/static/media/password.3389d13466ce23102e01.jpg",
+    "static/media/blog.jpg": "/react-portfolio-andrea/home/static/media/blog.e97d6bc5c36760411aa6.jpg",
+    "static/media/textEditor.jpg": "/react-portfolio-andrea/home/static/media/textEditor.623da1d0b0ab35a5f597.jpg",
+    "static/media/homeProfile.png": "/react-portfolio-andrea/home/static/media/homeProfile.78013eb163ab04581295.png",
+    "index.html": "/react-portfolio-andrea/home/index.html",
+    "main.25ebe31a.css.map": "/react-portfolio-andrea/home/static/css/main.25ebe31a.css.map",
+    "main.605d61ee.js.map": "/react-portfolio-andrea/home/static/js/main.605d61ee.js.map",
+    "787.60d1a99a.chunk.js.map": "/react-portfolio-andrea/home/static/js/787.60d1a99a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25ebe31a.css",
-    "static/js/main.7759d7b7.js"
+    "static/js/main.605d61ee.js"
   ]
 }
