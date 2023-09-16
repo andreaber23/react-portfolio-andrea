@@ -12,7 +12,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
-      <Router basename="/react-portfolio-andrea/">
+      <Router >
         <Navbar />
         <Routes>
           {/* Default route: Home */}
