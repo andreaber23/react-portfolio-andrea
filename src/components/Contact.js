@@ -76,6 +76,7 @@ function Contact() {
         </form>
       </Box>
     </Box>
+
     </div>
   );
 }
