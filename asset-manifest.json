@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio-andrea/home/static/css/main.25ebe31a.css",
-    "main.js": "/react-portfolio-andrea/home/static/js/main.605d61ee.js",
+    "main.js": "/react-portfolio-andrea/home/static/js/main.89bcf574.js",
     "static/js/787.60d1a99a.chunk.js": "/react-portfolio-andrea/home/static/js/787.60d1a99a.chunk.js",
     "static/media/budgify.jpg": "/react-portfolio-andrea/home/static/media/budgify.b47e0253d3ff16b2ec1d.jpg",
     "static/media/myhealthspace.jpeg": "/react-portfolio-andrea/home/static/media/myhealthspace.10914bbd8b2305562059.jpeg",
@@ -12,11 +12,11 @@
     "static/media/homeProfile.png": "/react-portfolio-andrea/home/static/media/homeProfile.78013eb163ab04581295.png",
     "index.html": "/react-portfolio-andrea/home/index.html",
     "main.25ebe31a.css.map": "/react-portfolio-andrea/home/static/css/main.25ebe31a.css.map",
-    "main.605d61ee.js.map": "/react-portfolio-andrea/home/static/js/main.605d61ee.js.map",
+    "main.89bcf574.js.map": "/react-portfolio-andrea/home/static/js/main.89bcf574.js.map",
     "787.60d1a99a.chunk.js.map": "/react-portfolio-andrea/home/static/js/787.60d1a99a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25ebe31a.css",
-    "static/js/main.605d61ee.js"
+    "static/js/main.89bcf574.js"
   ]
 }
