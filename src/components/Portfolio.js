@@ -13,7 +13,7 @@ const projects = [
     title: 'Budgify',
     description: 'Personal finance website using MySQL, Express and Handlebars.',
     imageSrc: Project1,
-    deployedLink: 'https://damp-taiga-51625-c51314b9902e.herokuapp.com/',
+    deployedLink: 'https://budgify-3a01649b95ad.herokuapp.com/',
     githubLink: 'https://github.com/andreaber23/Budgify'
   },
   {
@@ -44,9 +44,9 @@ const projects = [
   },
   {
     title: 'myhealthspace',
-    description: 'Full-Stack application using MERN.',
+    description: 'Full-Stack application using React, MongoDB Atlas, Express and Node.js.',
     imageSrc: Project6,
-    deployedLink: '',
+    deployedLink: 'https://my-health-space-e9d209a11adb.herokuapp.com/',
     githubLink: 'https://github.com/andreaber23/myhealthspace'
   },
 ];
