@@ -6,7 +6,7 @@ import Project2 from '../images/blog.jpg'
 import Project3 from '../images/password.jpg'
 import Project4 from '../images/textEditor.jpg'
 import Project5 from '../images/readmeGenerator.jpg'
-import Project6 from '../images/myhealthspace.jpeg'
+import Project6 from '../images/myhealthspace.jpg'
 
 const projects = [
   {
